@@ -1,0 +1,35 @@
+.card {
+	border-bottom: 3px solid transparent !important;
+}
+
+.card:hover {
+	border-bottom: 3px solid #2a446f !important;
+}
+
+.active {
+	border-bottom: 3px solid #2a446f !important;
+}
+
+.card {
+	padding: 15px;
+	cursor: pointer;
+}
+
+.slick-slide .card {
+	border-radius: 0;
+}
+
+.slick-slide.slick-active:first-child .card,
+.slick-slide.slick-active:last-child .card {
+	border-radius: 15px;
+}
+
+.slick-slide.slick-active:first-child .card {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.slick-slide.slick-active:last-child .card {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
