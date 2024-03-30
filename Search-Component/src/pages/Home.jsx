@@ -1,7 +1,11 @@
-const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+import Search from "../components/Home/Search";
 
-export default Home
+const Home = () => {
+	return (
+		<div className="container-xl m-xl-auto d-flex justify-content-center align-items-center min-vh-100">
+			<Search />
+		</div>
+	);
+};
+
+export default Home;
