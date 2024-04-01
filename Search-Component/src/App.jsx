@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-import data from "./json/data.json";
+import data from "./json/data.js";
 
 const App = () => {
 	const initialState = {
@@ -203,7 +203,9 @@ const App = () => {
 				</div>
 
 				{visible && (
-					<div className="search-results">{pdf ? pdf : "Not found"}</div>
+					<div className="search-results">
+						{pdf ? <a href={pdf}>{language}</a> : "Not found"}
+					</div>
 				)}
 			</form>
 		</div>
