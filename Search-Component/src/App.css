@@ -116,4 +116,9 @@
 		display: grid;
 		align-items: end;
 	}
+
+	.search-results {
+		grid-row-start: 5;
+		grid-column: 1/-1;
+	}
 }
