@@ -10,14 +10,14 @@ const App = () => {
 		product: "",
 		version: "",
 		language: "",
-		pdf: "",
+		htm: "",
 	};
 
 	const [state, setState] = useState(initialState);
 
 	const [visible, setVisible] = useState(false);
 
-	const { acquired, index, product, version, language, pdf } = state;
+	const { acquired, index, product, version, language, htm } = state;
 
 	const handleAcquiredChange = (e) => {
 		const selectedIndex = e.target.selectedIndex;
@@ -28,7 +28,7 @@ const App = () => {
 			product: "",
 			version: "",
 			language: "",
-			pdf: "",
+			htm: "",
 		});
 		setVisible(false);
 	};
@@ -39,12 +39,12 @@ const App = () => {
 			product: e.target.value,
 			version: "",
 			language: "",
-			pdf: "",
+			htm: "",
 		});
 	};
 
 	const handleVersionChange = (e) => {
-		setState({ ...state, version: e.target.value, language: "", pdf: "" });
+		setState({ ...state, version: e.target.value, language: "", htm: "" });
 	};
 
 	const handleSumbmit = (e, object) => {
@@ -74,7 +74,7 @@ const App = () => {
 					);
 
 					if (languageData) {
-						setState({ ...state, pdf: languageData.pdf.file });
+						setState({ ...state, htm: languageData.htm });
 					}
 				}
 			}
@@ -215,7 +215,7 @@ const App = () => {
 
 				{visible && (
 					<div className="search-results">
-						{pdf ? <a href={pdf}>{language}</a> : "Not found"}
+						{htm ? <a href={htm}>{language}</a> : "Not found"}
 					</div>
 				)}
 			</form>

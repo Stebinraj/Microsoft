@@ -12,21 +12,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -35,21 +29,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -63,21 +51,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -86,21 +68,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -114,21 +90,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -137,21 +107,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -171,21 +135,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -194,21 +152,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -222,21 +174,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -250,21 +196,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
@@ -273,21 +213,15 @@ const data = [
 						language: [
 							{
 								type: "English",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 							},
 							{
 								type: "Hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 							},
 							{
 								type: "Spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
+								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 							},
 						],
 					},
