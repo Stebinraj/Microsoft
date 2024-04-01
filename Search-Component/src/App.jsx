@@ -20,20 +20,31 @@ const App = () => {
 	const { acquired, index, product, version, language, pdf } = state;
 
 	const handleAcquiredChange = (e) => {
+		const selectedIndex = e.target.selectedIndex;
 		setState({
 			...state,
 			acquired: e.target.value,
-			index: e.target.selectedIndex - 1,
+			index: selectedIndex > 0 && selectedIndex - 1,
 			product: "",
+			version: "",
+			language: "",
+			pdf: "",
 		});
+		setVisible(false);
 	};
 
 	const handleProductChange = (e) => {
-		setState({ ...state, product: e.target.value, version: "" });
+		setState({
+			...state,
+			product: e.target.value,
+			version: "",
+			language: "",
+			pdf: "",
+		});
 	};
 
 	const handleVersionChange = (e) => {
-		setState({ ...state, version: e.target.value });
+		setState({ ...state, version: e.target.value, language: "", pdf: "" });
 	};
 
 	const handleSumbmit = (e, object) => {
