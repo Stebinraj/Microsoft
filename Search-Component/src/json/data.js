@@ -11,19 +11,19 @@ const data = [
 						type: "Microsoft 365 Apps",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -34,19 +34,19 @@ const data = [
 						type: "Microsoft 365 Business Standard",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -59,22 +59,22 @@ const data = [
 				name: "Office",
 				version: [
 					{
-						type: "Microsoft 365 Apps",
+						type: "2019 Academic for Mac",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -82,22 +82,22 @@ const data = [
 						],
 					},
 					{
-						type: "Microsoft 365 Business Standard",
+						type: "2019 Outlook",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -110,22 +110,22 @@ const data = [
 				name: "Office in Microsoft 365",
 				version: [
 					{
-						type: "Microsoft 365 Apps",
+						type: "Family",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -133,22 +133,22 @@ const data = [
 						],
 					},
 					{
-						type: "Microsoft 365 Business Standard",
+						type: "Personal",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -164,25 +164,25 @@ const data = [
 		value: "OEM",
 		product: [
 			{
-				name: "Microsoft 365 2",
+				name: "Office in Microsoft 365",
 				version: [
 					{
-						type: "Microsoft 365 Apps",
+						type: "Family",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -190,22 +190,22 @@ const data = [
 						],
 					},
 					{
-						type: "Microsoft 365 Business Standard",
+						type: "Personal",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -215,48 +215,25 @@ const data = [
 				],
 			},
 			{
-				name: "Office 2",
+				name: "SQL Server",
 				version: [
 					{
-						type: "Microsoft 365 Apps",
+						type: "SQL Server 2022 Enterprise, Standard, Web",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
-								},
-							},
-						],
-					},
-					{
-						type: "Microsoft 365 Business Standard",
-						language: [
-							{
-								type: "english",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
-								},
-							},
-							{
-								type: "hindi",
-								pdf: {
-									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
-								},
-							},
-							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -266,25 +243,25 @@ const data = [
 				],
 			},
 			{
-				name: "Office in Microsoft 365 2",
+				name: "Windows",
 				version: [
 					{
-						type: "Microsoft 365 Apps",
+						type: "10",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
@@ -292,22 +269,22 @@ const data = [
 						],
 					},
 					{
-						type: "Microsoft 365 Business Standard",
+						type: "10 Mobile",
 						language: [
 							{
-								type: "english",
+								type: "English",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
 								},
 							},
 							{
-								type: "hindi",
+								type: "Hindi",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
 								},
 							},
 							{
-								type: "spanish",
+								type: "Spanish",
 								pdf: {
 									file: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
 								},
