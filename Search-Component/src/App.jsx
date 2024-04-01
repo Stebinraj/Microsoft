@@ -17,6 +17,10 @@ const App = () => {
 
 	const [visible, setVisible] = useState(false);
 
+	const [input, setInput] = useState("");
+
+	const [pdf, setPdf] = useState([]);
+
 	const { acquired, index, product, version, language, htm } = state;
 
 	const handleAcquiredChange = (e) => {
@@ -79,6 +83,33 @@ const App = () => {
 				}
 			}
 		}
+	};
+
+	const findPDFByKeyword = (keyword) => {
+		const matchingPDFs = [];
+
+		// Iterate through the data array
+		data.forEach((item) => {
+			// Iterate through each product
+			item.product.forEach((product) => {
+				// Iterate through each version
+				product.version.forEach((version) => {
+					// Iterate through each language
+					version.language.forEach((language) => {
+						// Check if the language has a pdf field and if it contains the keyword
+						if (
+							language.pdf &&
+							language.pdf.toLowerCase().includes(keyword.toLowerCase())
+						) {
+							// If a match is found, push the PDF link to the matchingPDFs array
+							matchingPDFs.push(language.pdf);
+						}
+					});
+				});
+			});
+		});
+
+		setPdf(matchingPDFs);
 	};
 
 	return (
@@ -193,12 +224,16 @@ const App = () => {
 						type="text"
 						className="form-control p-1"
 						disabled={index < 0}
+						onChange={(e) => {
+							setInput(e.target.value);
+						}}
 					/>
 				</div>
 				<div className="manual-submit-btn">
 					<button
 						className="btn btn-primary p-1 rounded-0"
 						style={{ width: 100, backgroundColor: "#0072c6" }}
+						onClick={() => findPDFByKeyword(input)}
 					>
 						Go
 					</button>
@@ -216,6 +251,12 @@ const App = () => {
 				{visible && (
 					<div className="search-results">
 						{htm ? <a href={htm}>{language}</a> : "Not found"}
+						{pdf.map((value, index) => (
+							<div key={index}>
+								<a href="">{value}</a>
+								<br />
+							</div>
+						))}
 					</div>
 				)}
 			</form>

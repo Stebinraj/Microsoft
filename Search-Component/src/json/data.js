@@ -13,14 +13,17 @@ const data = [
 							{
 								type: "English",
 								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_English.htm",
+								pdf: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
 							},
 							{
 								type: "Hindi",
 								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Hindi.htm",
+								pdf: "http://download.microsoft.com/Documents/UseTerms/Windows%207_Home%20Basic%20K_English_29cfb2b8-c70f-4b17-99dd-489a0e81493a.pdf",
 							},
 							{
 								type: "Spanish",
 								htm: "https://www.microsoft.com/en-us/UseTerms/Retail/Microsoft365/Microsoft365Apps/UseTerms_Retail_Microsoft365_Microsoft365Apps_Spanish.htm",
+								pdf: "http://download.microsoft.com/Documents/UseTerms/Windows%207_Home%20Basic%20K_English_29cfb2b8-c70f-4b17-99dd-489a0e81493a.pdf",
 							},
 						],
 					},
